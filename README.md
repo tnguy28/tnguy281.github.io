@@ -17,7 +17,6 @@
 </tr>
 </table>
 </html>
-
 <header>
   <nav>
     <ul class="menu">
